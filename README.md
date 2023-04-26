@@ -4,7 +4,7 @@
 - Technologies required: React, Node, Express, MongoDB, Javascript, CSS, HTML, GitHub
 - Deadline: 2nd of May, 2023 (10 am Finnish Time)
 
-## Back-end (20 points)
+## Back-end (17 points)
 
 ### Backend Setup
 
