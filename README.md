@@ -4,7 +4,12 @@
 - Technologies required: React, Node, Express, MongoDB, Javascript, CSS, HTML, GitHub
 - Deadline: 2nd of May, 2023 (10 am Finnish Time)
 
-## Back-end requirements
+## Back-end (20 points)
+
+### Backend Setup
+
+- Go to server folder then `npm install` to install all the packages. Feel free to add or remove packages based on your need.
+- Run the project -> `npm run dev`
 
 ### User API -> /api/users (7 points)
 
@@ -40,12 +45,17 @@
     - /:id -> Delete single blog (Only for Admin)
     - /all-blogs -> get all the blogs (Only for Admin)
 
-## Front-end requirements (10 points)
+## Front-end (10 points)
+
+### Front-end Setup
+
+- Go to client folder then `npm install` to install all the packages. Feel free to add or remove packages based on your need.
+- Run the project -> `npm start`
+
+### Pages & routing
 
 - try to consume the all the API's you created
 - remember to protect routes based on logged in, loggedout , admin status
-
-### Pages & routing
 
 - / -> Home page (tell the visitiors about the website)
 - /login -> Login Page
