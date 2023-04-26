@@ -10,11 +10,11 @@
 
 - API Should have the following feature
   - User CRUD Operation (4 points)
-    - Create User -> Endpoint: /
-      - User Registartion
+    - Create User
+      - User Registartion -> /
         - use jwt to store the user inputs temporarily
         - send the account activation email
-      - User Activation
+      - User Activation -> /activate
         - activate the user by verifying the token
         - store the user in database
     - Endpoints:
